@@ -1,0 +1,516 @@
+{
+	"variables": [],
+	"info": {
+		"name": "elastic",
+		"_postman_id": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get cluster health",
+			"request": {
+				"url": {
+					"raw": "http://localhost:9200/_cat/health?v",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"_cat",
+						"health"
+					],
+					"query": [
+						{
+							"key": "v",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get list of nodes",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/_cat/nodes?v",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"_cat",
+						"nodes"
+					],
+					"query": [
+						{
+							"key": "v",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "List All Indicesedit ",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/_cat/indices?v",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"_cat",
+						"indices"
+					],
+					"query": [
+						{
+							"key": "v",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Create an index",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/customer?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"customer"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Index a Document",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/customer/_doc/1?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"customer",
+						"_doc",
+						"1"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"John Doe\"\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Query a Documnent",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/customer/_doc/1?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"customer",
+						"_doc",
+						"1"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Delete a Document",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/customer/_doc/1?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"customer",
+						"_doc",
+						"1"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Delete an index",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/us_large_cities?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"us_large_cities"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Update a Document",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/customer/_doc/2/_update?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"customer",
+						"_doc",
+						"2",
+						"_update"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"doc\": { \"name\": \"Bob Doe\" }\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Multi GET document",
+			"request": {
+				"url": "localhost:9200/customer/_mget",
+				"method": "VIEW",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"docs\" : [\r\n        {\r\n            \"_id\" : \"1\"\r\n        },\r\n        {\r\n            \"_id\" : \"2\"\r\n        }\r\n    ]\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "BULK  update",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/customer/_doc/_bulk?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"customer",
+						"_doc",
+						"_bulk"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"index\":{\"_id\":\"3\"}}\n{\"name\": \"John Doe\" }\n{\"index\":{\"_id\":\"4\"}}\n{\"name\": \"Jane Doe\" }\n"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get mapping",
+			"request": {
+				"url": "localhost:9200/us_large_cities/_mapping",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Setup mapping",
+			"request": {
+				"url": "localhost:9200/us_large_cities",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"mappings\": {\r\n        \"city\": {\r\n            \"properties\": {\r\n                \"city\": {\"type\": \"text\"},\r\n                \"state\": {\"type\": \"text\"},\r\n                \"location\": {\"type\": \"geo_point\"}\r\n            }\r\n        }\r\n    }\r\n}\r\n"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Populate with big cities (BULK  from file)",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/us_large_cities/city/_bulk?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"us_large_cities",
+						"city",
+						"_bulk"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "file",
+					"file": {
+						"src": ""
+					}
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get nearest big cities",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/us_large_cities/city/_search?pretty=true",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"us_large_cities",
+						"city",
+						"_search"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "true",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "VIEW",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"query\": {\r\n    \"bool\": {\r\n      \"must\": {\r\n        \"match_all\": {}\r\n      },\r\n      \"filter\": {\r\n        \"geo_distance\": {\r\n          \"distance\": \"20km\",\r\n          \"location\": {\r\n            \"lat\": 37.9174,\r\n            \"lon\": -122.305\r\n          }\r\n        }\r\n      }\r\n    }\r\n  }\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Populate with big cities (BULK  from request body)",
+			"request": {
+				"url": {
+					"raw": "localhost:9200/us_large_cities/city/_bulk?pretty",
+					"host": [
+						"localhost"
+					],
+					"port": "9200",
+					"path": [
+						"us_large_cities",
+						"city",
+						"_bulk"
+					],
+					"query": [
+						{
+							"key": "pretty",
+							"value": "",
+							"equals": false,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"index\":{\"_id\":\"3\"}}\n{\"name\": \"John Doe\" }\n{\"index\":{\"_id\":\"4\"}}\n{\"name\": \"Jane Doe\" }\n"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

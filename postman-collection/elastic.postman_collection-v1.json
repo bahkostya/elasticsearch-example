@@ -1,0 +1,558 @@
+{
+	"id": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+	"name": "elastic",
+	"description": "",
+	"order": [
+		"c7c2841b-cfcb-9b26-bfca-840807ec6194",
+		"eb9f79f1-e990-098d-0517-de2ece9cfeac",
+		"b502b142-3c1b-9fc5-ac97-df5ec53164c2",
+		"cacfae3a-0913-090d-7db0-290b9ac25058",
+		"0e43485d-e92a-e929-97f8-0f343cd027d9",
+		"75974aa9-5e5a-45eb-00dc-e3119a742b19",
+		"efcc8d9a-4ff7-1447-3053-48efac63973c",
+		"0c7e5896-5404-e3f8-3e2f-ab1786181a42",
+		"9ba39f9a-cca4-ff91-0a46-c9535d8eaebb",
+		"3fc64957-fb47-4a4d-e762-23ee8fb7fc19",
+		"eb30c24e-2015-642a-218d-de99806a6f9d",
+		"02018206-361e-7393-aaa5-3228f05b7d4d",
+		"0510658d-df8d-e45e-ea4a-f5eb10671c6d",
+		"468b92a7-2dd4-2d1a-8f24-e204b82be427",
+		"bad77338-a2ba-a427-c981-6dfc9ff84aa4",
+		"375c87b5-664b-6d8a-8cb4-80508744bed3"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1522826097694,
+	"owner": "3609459",
+	"public": false,
+	"requests": [
+		{
+			"id": "02018206-361e-7393-aaa5-3228f05b7d4d",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:9200/us_large_cities/_mapping",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1522998695629,
+			"name": "Get mapping",
+			"description": "",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"responses": []
+		},
+		{
+			"id": "0510658d-df8d-e45e-ea4a-f5eb10671c6d",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/us_large_cities",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1522998525580,
+			"name": "Setup mapping",
+			"description": "",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"responses": [],
+			"rawModeData": "{\r\n    \"mappings\": {\r\n        \"city\": {\r\n            \"properties\": {\r\n                \"city\": {\"type\": \"text\"},\r\n                \"state\": {\"type\": \"text\"},\r\n                \"location\": {\"type\": \"geo_point\"}\r\n            }\r\n        }\r\n    }\r\n}\r\n"
+		},
+		{
+			"id": "0c7e5896-5404-e3f8-3e2f-ab1786181a42",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:9200/us_large_cities?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1522998531515,
+			"name": "Delete an index",
+			"description": "",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"responses": []
+		},
+		{
+			"id": "0e43485d-e92a-e929-97f8-0f343cd027d9",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/customer/_doc/1?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1522839586838,
+			"name": "Index a Document",
+			"description": "",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"responses": [],
+			"rawModeData": "{\r\n  \"name\": \"John Doe\"\r\n}"
+		},
+		{
+			"id": "375c87b5-664b-6d8a-8cb4-80508744bed3",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/us_large_cities/city/_bulk?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Populate with big cities (BULK  from request body)",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1523003851611,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\"index\":{\"_id\":\"3\"}}\n{\"name\": \"John Doe\" }\n{\"index\":{\"_id\":\"4\"}}\n{\"name\": \"Jane Doe\" }\n"
+		},
+		{
+			"id": "3fc64957-fb47-4a4d-e762-23ee8fb7fc19",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/customer/_mget",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "VIEW",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Multi GET document",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522845359485,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"docs\" : [\r\n        {\r\n            \"_id\" : \"1\"\r\n        },\r\n        {\r\n            \"_id\" : \"2\"\r\n        }\r\n    ]\r\n}"
+		},
+		{
+			"id": "468b92a7-2dd4-2d1a-8f24-e204b82be427",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/us_large_cities/city/_bulk?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "binary",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1523003835272,
+			"name": "Populate with big cities (BULK  from file)",
+			"description": "",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"responses": [],
+			"rawModeData": ""
+		},
+		{
+			"id": "75974aa9-5e5a-45eb-00dc-e3119a742b19",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:9200/customer/_doc/1?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": null,
+			"dataMode": "params",
+			"name": "Query a Documnent",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522839629953,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "9ba39f9a-cca4-ff91-0a46-c9535d8eaebb",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/customer/_doc/2/_update?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Update a Document",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522844081098,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n  \"doc\": { \"name\": \"Bob Doe\" }\r\n}"
+		},
+		{
+			"id": "b502b142-3c1b-9fc5-ac97-df5ec53164c2",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:9200/_cat/indices?v",
+			"queryParams": [
+				{
+					"key": "v",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": null,
+			"dataMode": "params",
+			"name": "List All Indicesedit ",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522838405723,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "bad77338-a2ba-a427-c981-6dfc9ff84aa4",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/us_large_cities/city/_search?pretty=true",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "true",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "VIEW",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Get nearest big cities",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522998857879,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n  \"query\": {\r\n    \"bool\": {\r\n      \"must\": {\r\n        \"match_all\": {}\r\n      },\r\n      \"filter\": {\r\n        \"geo_distance\": {\r\n          \"distance\": \"20km\",\r\n          \"location\": {\r\n            \"lat\": 37.9174,\r\n            \"lon\": -122.305\r\n          }\r\n        }\r\n      }\r\n    }\r\n  }\r\n}"
+		},
+		{
+			"id": "c7c2841b-cfcb-9b26-bfca-840807ec6194",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:9200/_cat/health?v",
+			"queryParams": [
+				{
+					"key": "v",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get cluster health",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522827433981,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "cacfae3a-0913-090d-7db0-290b9ac25058",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:9200/customer?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "PUT",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": null,
+			"dataMode": "params",
+			"name": "Create an index",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522838601828,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "eb30c24e-2015-642a-218d-de99806a6f9d",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:9200/customer/_doc/_bulk?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": [],
+			"dataMode": "raw",
+			"name": "BULK  update",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522845977358,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\"index\":{\"_id\":\"3\"}}\n{\"name\": \"John Doe\" }\n{\"index\":{\"_id\":\"4\"}}\n{\"name\": \"Jane Doe\" }\n"
+		},
+		{
+			"id": "eb9f79f1-e990-098d-0517-de2ece9cfeac",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:9200/_cat/nodes?v",
+			"queryParams": [
+				{
+					"key": "v",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get list of nodes",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1522827936248,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "efcc8d9a-4ff7-1447-3053-48efac63973c",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:9200/customer/_doc/1?pretty",
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1522839907629,
+			"name": "Delete a Document",
+			"description": "",
+			"collectionId": "6bd2559c-d391-3954-35e4-db52210ecf5b",
+			"responses": []
+		}
+	]
+}

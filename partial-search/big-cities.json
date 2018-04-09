@@ -1,0 +1,546 @@
+{"index": {}}
+{"city": "Anchorage", "state": "AK","location": {"lat": "61.2180556", "lon": "-149.9002778"}}
+{"index": {}}
+{"city": "Birmingham", "state": "AL","location": {"lat": "33.5206608", "lon": "-86.8024900"}}
+{"index": {}}
+{"city": "Huntsville", "state": "AL","location": {"lat": "34.7303688", "lon": "-86.5861037"}}
+{"index": {}}
+{"city": "Mobile", "state": "AL","location": {"lat": "30.6943566", "lon": "-88.0430541"}}
+{"index": {}}
+{"city": "Montgomery", "state": "AL","location": {"lat": "32.3668052", "lon": "-86.2999689"}}
+{"index": {}}
+{"city": "Little Rock", "state": "AR","location": {"lat": "34.7464809", "lon": "-92.2895948"}}
+{"index": {}}
+{"city": "Chandler", "state": "AZ","location": {"lat": "33.3061605", "lon": "-111.8412502"}}
+{"index": {}}
+{"city": "Gilbert", "state": "AZ","location": {"lat": "33.3528264", "lon": "-111.7890270"}}
+{"index": {}}
+{"city": "Glendale", "state": "AZ","location": {"lat": "33.5386523", "lon": "-112.1859866"}}
+{"index": {}}
+{"city": "Mesa", "state": "AZ","location": {"lat": "33.4222685", "lon": "-111.8226402"}}
+{"index": {}}
+{"city": "Peoria", "state": "AZ","location": {"lat": "33.5805955", "lon": "-112.2373779"}}
+{"index": {}}
+{"city": "Phoenix", "state": "AZ","location": {"lat": "33.4483771", "lon": "-112.0740373"}}
+{"index": {}}
+{"city": "Scottsdale", "state": "AZ","location": {"lat": "33.5092103", "lon": "-111.8990327"}}
+{"index": {}}
+{"city": "Tempe", "state": "AZ","location": {"lat": "33.4147680", "lon": "-111.9093095"}}
+{"index": {}}
+{"city": "Tempe Junction", "state": "AZ","location": {"lat": "33.4142123", "lon": "-111.9434772"}}
+{"index": {}}
+{"city": "Tucson", "state": "AZ","location": {"lat": "32.2217429", "lon": "-110.9264790"}}
+{"index": {}}
+{"city": "Anaheim", "state": "CA","location": {"lat": "33.8352932", "lon": "-117.9145036"}}
+{"index": {}}
+{"city": "Antioch", "state": "CA","location": {"lat": "38.0049214", "lon": "-121.8057890"}}
+{"index": {}}
+{"city": "Bakersfield", "state": "CA","location": {"lat": "35.3732921", "lon": "-119.0187125"}}
+{"index": {}}
+{"city": "Berkeley", "state": "CA","location": {"lat": "37.8715926", "lon": "-122.2727470"}}
+{"index": {}}
+{"city": "Burbank", "state": "CA","location": {"lat": "34.1808392", "lon": "-118.3089661"}}
+{"index": {}}
+{"city": "Chula Vista", "state": "CA","location": {"lat": "32.6400541", "lon": "-117.0841955"}}
+{"index": {}}
+{"city": "Concord", "state": "CA","location": {"lat": "37.9779777", "lon": "-122.0310733"}}
+{"index": {}}
+{"city": "Corona", "state": "CA","location": {"lat": "33.8752935", "lon": "-117.5664384"}}
+{"index": {}}
+{"city": "Costa Mesa", "state": "CA","location": {"lat": "33.6411316", "lon": "-117.9186689"}}
+{"index": {}}
+{"city": "Downey", "state": "CA","location": {"lat": "33.9400143", "lon": "-118.1325688"}}
+{"index": {}}
+{"city": "East Los Angeles", "state": "CA","location": {"lat": "34.0239015", "lon": "-118.1720157"}}
+{"index": {}}
+{"city": "El Monte", "state": "CA","location": {"lat": "34.0686207", "lon": "-118.0275667"}}
+{"index": {}}
+{"city": "Escondido", "state": "CA","location": {"lat": "33.1192068", "lon": "-117.0864210"}}
+{"index": {}}
+{"city": "Fairfield", "state": "CA","location": {"lat": "38.2493581", "lon": "-122.0399663"}}
+{"index": {}}
+{"city": "Fontana", "state": "CA","location": {"lat": "34.0922335", "lon": "-117.4350480"}}
+{"index": {}}
+{"city": "Fremont", "state": "CA","location": {"lat": "37.5482697", "lon": "-121.9885719"}}
+{"index": {}}
+{"city": "Fresno", "state": "CA","location": {"lat": "36.7477272", "lon": "-119.7723661"}}
+{"index": {}}
+{"city": "Fullerton", "state": "CA","location": {"lat": "33.8702924", "lon": "-117.9253380"}}
+{"index": {}}
+{"city": "Garden Grove", "state": "CA","location": {"lat": "33.7739053", "lon": "-117.9414477"}}
+{"index": {}}
+{"city": "Glendale", "state": "CA","location": {"lat": "34.1425078", "lon": "-118.2550750"}}
+{"index": {}}
+{"city": "Hayward", "state": "CA","location": {"lat": "37.6688205", "lon": "-122.0807964"}}
+{"index": {}}
+{"city": "Hollywood", "state": "CA","location": {"lat": "34.0983425", "lon": "-118.3267434"}}
+{"index": {}}
+{"city": "Huntington Beach", "state": "CA","location": {"lat": "33.6602970", "lon": "-117.9992265"}}
+{"index": {}}
+{"city": "Inglewood", "state": "CA","location": {"lat": "33.9616801", "lon": "-118.3531311"}}
+{"index": {}}
+{"city": "Irvine", "state": "CA","location": {"lat": "33.6694649", "lon": "-117.8231107"}}
+{"index": {}}
+{"city": "Lancaster", "state": "CA","location": {"lat": "34.6980406", "lon": "-118.1367393"}}
+{"index": {}}
+{"city": "Long Beach", "state": "CA","location": {"lat": "33.7669623", "lon": "-118.1892348"}}
+{"index": {}}
+{"city": "Los Angeles", "state": "CA","location": {"lat": "34.0522342", "lon": "-118.2436849"}}
+{"index": {}}
+{"city": "Modesto", "state": "CA","location": {"lat": "37.6390972", "lon": "-120.9968782"}}
+{"index": {}}
+{"city": "Moreno Valley", "state": "CA","location": {"lat": "33.9375170", "lon": "-117.2305944"}}
+{"index": {}}
+{"city": "North Glendale", "state": "CA","location": {"lat": "34.1605626", "lon": "-118.2645198"}}
+{"index": {}}
+{"city": "Norwalk", "state": "CA","location": {"lat": "33.9022367", "lon": "-118.0817330"}}
+{"index": {}}
+{"city": "Oakland", "state": "CA","location": {"lat": "37.8043722", "lon": "-122.2708026"}}
+{"index": {}}
+{"city": "Oceanside", "state": "CA","location": {"lat": "33.1958696", "lon": "-117.3794834"}}
+{"index": {}}
+{"city": "Ontario", "state": "CA","location": {"lat": "34.0633443", "lon": "-117.6508876"}}
+{"index": {}}
+{"city": "Orange", "state": "CA","location": {"lat": "33.7877945", "lon": "-117.8531119"}}
+{"index": {}}
+{"city": "Oxnard", "state": "CA","location": {"lat": "34.1975048", "lon": "-119.1770516"}}
+{"index": {}}
+{"city": "Oxnard Shores", "state": "CA","location": {"lat": "34.1908379", "lon": "-119.2414984"}}
+{"index": {}}
+{"city": "Palmdale", "state": "CA","location": {"lat": "34.5794343", "lon": "-118.1164613"}}
+{"index": {}}
+{"city": "Pasadena", "state": "CA","location": {"lat": "34.1477849", "lon": "-118.1445155"}}
+{"index": {}}
+{"city": "Pomona", "state": "CA","location": {"lat": "34.0552886", "lon": "-117.7522793"}}
+{"index": {}}
+{"city": "Rancho Cucamonga", "state": "CA","location": {"lat": "34.1063989", "lon": "-117.5931084"}}
+{"index": {}}
+{"city": "Rialto", "state": "CA","location": {"lat": "34.1064001", "lon": "-117.3703235"}}
+{"index": {}}
+{"city": "Richmond", "state": "CA","location": {"lat": "37.9357576", "lon": "-122.3477486"}}
+{"index": {}}
+{"city": "Riverside", "state": "CA","location": {"lat": "33.9533487", "lon": "-117.3961564"}}
+{"index": {}}
+{"city": "Roseville", "state": "CA","location": {"lat": "38.7521235", "lon": "-121.2880059"}}
+{"index": {}}
+{"city": "Sacramento", "state": "CA","location": {"lat": "38.5815719", "lon": "-121.4943996"}}
+{"index": {}}
+{"city": "Salinas", "state": "CA","location": {"lat": "36.6777372", "lon": "-121.6555013"}}
+{"index": {}}
+{"city": "San Bernardino", "state": "CA","location": {"lat": "34.1083449", "lon": "-117.2897652"}}
+{"index": {}}
+{"city": "San Diego", "state": "CA","location": {"lat": "32.7153292", "lon": "-117.1572551"}}
+{"index": {}}
+{"city": "San Francisco", "state": "CA","location": {"lat": "37.7749295", "lon": "-122.4194155"}}
+{"index": {}}
+{"city": "San Jose", "state": "CA","location": {"lat": "37.3393857", "lon": "-121.8949555"}}
+{"index": {}}
+{"city": "Santa Ana", "state": "CA","location": {"lat": "33.7455731", "lon": "-117.8678338"}}
+{"index": {}}
+{"city": "Santa Clara", "state": "CA","location": {"lat": "37.3541080", "lon": "-121.9552356"}}
+{"index": {}}
+{"city": "Santa Clarita", "state": "CA","location": {"lat": "34.3916641", "lon": "-118.5425860"}}
+{"index": {}}
+{"city": "Santa Rosa", "state": "CA","location": {"lat": "38.4404675", "lon": "-122.7144314"}}
+{"index": {}}
+{"city": "Simi Valley", "state": "CA","location": {"lat": "34.2694474", "lon": "-118.7814820"}}
+{"index": {}}
+{"city": "Stockton", "state": "CA","location": {"lat": "37.9577016", "lon": "-121.2907796"}}
+{"index": {}}
+{"city": "Sunnyvale", "state": "CA","location": {"lat": "37.3688301", "lon": "-122.0363496"}}
+{"index": {}}
+{"city": "Thousand Oaks", "state": "CA","location": {"lat": "34.1705609", "lon": "-118.8375937"}}
+{"index": {}}
+{"city": "Torrance", "state": "CA","location": {"lat": "33.8358492", "lon": "-118.3406288"}}
+{"index": {}}
+{"city": "Vallejo", "state": "CA","location": {"lat": "38.1040864", "lon": "-122.2566367"}}
+{"index": {}}
+{"city": "Visalia", "state": "CA","location": {"lat": "36.3302284", "lon": "-119.2920585"}}
+{"index": {}}
+{"city": "West Covina", "state": "CA","location": {"lat": "34.0686208", "lon": "-117.9389526"}}
+{"index": {}}
+{"city": "Arvada", "state": "CO","location": {"lat": "39.8027644", "lon": "-105.0874842"}}
+{"index": {}}
+{"city": "Aurora", "state": "CO","location": {"lat": "39.7294319", "lon": "-104.8319195"}}
+{"index": {}}
+{"city": "Colorado Springs", "state": "CO","location": {"lat": "38.8338816", "lon": "-104.8213634"}}
+{"index": {}}
+{"city": "Denver", "state": "CO","location": {"lat": "39.7391536", "lon": "-104.9847034"}}
+{"index": {}}
+{"city": "Fort Collins", "state": "CO","location": {"lat": "40.5852602", "lon": "-105.0844230"}}
+{"index": {}}
+{"city": "Highlands Ranch", "state": "CO","location": {"lat": "39.5538771", "lon": "-104.9694264"}}
+{"index": {}}
+{"city": "Lakewood", "state": "CO","location": {"lat": "39.7047095", "lon": "-105.0813734"}}
+{"index": {}}
+{"city": "Pueblo", "state": "CO","location": {"lat": "38.2544472", "lon": "-104.6091410"}}
+{"index": {}}
+{"city": "Thornton", "state": "CO","location": {"lat": "39.8680412", "lon": "-104.9719243"}}
+{"index": {}}
+{"city": "Westminster", "state": "CO","location": {"lat": "39.8366528", "lon": "-105.0372046"}}
+{"index": {}}
+{"city": "Bridgeport", "state": "CT","location": {"lat": "41.1670412", "lon": "-73.2048348"}}
+{"index": {}}
+{"city": "Hartford", "state": "CT","location": {"lat": "41.7637111", "lon": "-72.6850932"}}
+{"index": {}}
+{"city": "New Haven", "state": "CT","location": {"lat": "41.3081527", "lon": "-72.9281578"}}
+{"index": {}}
+{"city": "North Stamford", "state": "CT","location": {"lat": "41.1381518", "lon": "-73.5434574"}}
+{"index": {}}
+{"city": "Stamford", "state": "CT","location": {"lat": "41.0534302", "lon": "-73.5387341"}}
+{"index": {}}
+{"city": "Waterbury", "state": "CT","location": {"lat": "41.5581525", "lon": "-73.0514966"}}
+{"index": {}}
+{"city": "Washington", "state": "DC","location": {"lat": "38.8951118", "lon": "-77.0363658"}}
+{"index": {}}
+{"city": "Cape Coral", "state": "FL","location": {"lat": "26.5628537", "lon": "-81.9495331"}}
+{"index": {}}
+{"city": "Clearwater", "state": "FL","location": {"lat": "27.9658533", "lon": "-82.8001026"}}
+{"index": {}}
+{"city": "Coral Springs", "state": "FL","location": {"lat": "26.2711920", "lon": "-80.2706044"}}
+{"index": {}}
+{"city": "Fort Lauderdale", "state": "FL","location": {"lat": "26.1223084", "lon": "-80.1433786"}}
+{"index": {}}
+{"city": "Gainesville", "state": "FL","location": {"lat": "29.6516344", "lon": "-82.3248262"}}
+{"index": {}}
+{"city": "Hialeah", "state": "FL","location": {"lat": "25.8575963", "lon": "-80.2781057"}}
+{"index": {}}
+{"city": "Hollywood", "state": "FL","location": {"lat": "26.0112014", "lon": "-80.1494901"}}
+{"index": {}}
+{"city": "Jacksonville", "state": "FL","location": {"lat": "30.3321838", "lon": "-81.6556510"}}
+{"index": {}}
+{"city": "Miami", "state": "FL","location": {"lat": "25.7742658", "lon": "-80.1936589"}}
+{"index": {}}
+{"city": "Orlando", "state": "FL","location": {"lat": "28.5383355", "lon": "-81.3792365"}}
+{"index": {}}
+{"city": "Pembroke Pines", "state": "FL","location": {"lat": "26.0031465", "lon": "-80.2239370"}}
+{"index": {}}
+{"city": "Port Saint Lucie", "state": "FL","location": {"lat": "27.2939333", "lon": "-80.3503283"}}
+{"index": {}}
+{"city": "Saint Petersburg", "state": "FL","location": {"lat": "27.7708606", "lon": "-82.6792661"}}
+{"index": {}}
+{"city": "Tallahassee", "state": "FL","location": {"lat": "30.4382559", "lon": "-84.2807329"}}
+{"index": {}}
+{"city": "Tampa", "state": "FL","location": {"lat": "27.9475216", "lon": "-82.4584279"}}
+{"index": {}}
+{"city": "Atlanta", "state": "GA","location": {"lat": "33.7489954", "lon": "-84.3879824"}}
+{"index": {}}
+{"city": "Columbus", "state": "GA","location": {"lat": "32.4609764", "lon": "-84.9877094"}}
+{"index": {}}
+{"city": "Savannah", "state": "GA","location": {"lat": "32.0835407", "lon": "-81.0998342"}}
+{"index": {}}
+{"city": "Honolulu", "state": "HI","location": {"lat": "21.3069444", "lon": "-157.8583333"}}
+{"index": {}}
+{"city": "Cedar Rapids", "state": "IA","location": {"lat": "42.0083328", "lon": "-91.6440683"}}
+{"index": {}}
+{"city": "Des Moines", "state": "IA","location": {"lat": "41.6005448", "lon": "-93.6091064"}}
+{"index": {}}
+{"city": "Boise", "state": "ID","location": {"lat": "43.6135002", "lon": "-116.2034505"}}
+{"index": {}}
+{"city": "Aurora", "state": "IL","location": {"lat": "41.7605849", "lon": "-88.3200715"}}
+{"index": {}}
+{"city": "Chicago", "state": "IL","location": {"lat": "41.8500330", "lon": "-87.6500523"}}
+{"index": {}}
+{"city": "Joliet", "state": "IL","location": {"lat": "41.5250310", "lon": "-88.0817252"}}
+{"index": {}}
+{"city": "Naperville", "state": "IL","location": {"lat": "41.7858629", "lon": "-88.1472893"}}
+{"index": {}}
+{"city": "North Peoria", "state": "IL","location": {"lat": "40.7175374", "lon": "-89.5842635"}}
+{"index": {}}
+{"city": "Peoria", "state": "IL","location": {"lat": "40.6936488", "lon": "-89.5889864"}}
+{"index": {}}
+{"city": "Rockford", "state": "IL","location": {"lat": "42.2711311", "lon": "-89.0939952"}}
+{"index": {}}
+{"city": "Springfield", "state": "IL","location": {"lat": "39.8017171", "lon": "-89.6437107"}}
+{"index": {}}
+{"city": "Evansville", "state": "IN","location": {"lat": "37.9747644", "lon": "-87.5558482"}}
+{"index": {}}
+{"city": "Fort Wayne", "state": "IN","location": {"lat": "41.1306041", "lon": "-85.1288597"}}
+{"index": {}}
+{"city": "Indianapolis", "state": "IN","location": {"lat": "39.7683765", "lon": "-86.1580423"}}
+{"index": {}}
+{"city": "South Bend", "state": "IN","location": {"lat": "41.6833813", "lon": "-86.2500066"}}
+{"index": {}}
+{"city": "Kansas City", "state": "KS","location": {"lat": "39.1141708", "lon": "-94.6274570"}}
+{"index": {}}
+{"city": "Olathe", "state": "KS","location": {"lat": "38.8813958", "lon": "-94.8191285"}}
+{"index": {}}
+{"city": "Overland Park", "state": "KS","location": {"lat": "38.9822282", "lon": "-94.6707917"}}
+{"index": {}}
+{"city": "Topeka", "state": "KS","location": {"lat": "39.0483336", "lon": "-95.6780371"}}
+{"index": {}}
+{"city": "Wichita", "state": "KS","location": {"lat": "37.6922361", "lon": "-97.3375448"}}
+{"index": {}}
+{"city": "Lexington", "state": "KY","location": {"lat": "37.9886892", "lon": "-84.4777153"}}
+{"index": {}}
+{"city": "Lexington-Fayette", "state": "KY","location": {"lat": "38.0497996", "lon": "-84.4585485"}}
+{"index": {}}
+{"city": "Louisville", "state": "KY","location": {"lat": "38.2542376", "lon": "-85.7594070"}}
+{"index": {}}
+{"city": "Baton Rouge", "state": "LA","location": {"lat": "30.4507462", "lon": "-91.1545510"}}
+{"index": {}}
+{"city": "Lafayette", "state": "LA","location": {"lat": "30.2240897", "lon": "-92.0198427"}}
+{"index": {}}
+{"city": "Metairie", "state": "LA","location": {"lat": "29.9840922", "lon": "-90.1528519"}}
+{"index": {}}
+{"city": "Metairie Terrace", "state": "LA","location": {"lat": "29.9785368", "lon": "-90.1639634"}}
+{"index": {}}
+{"city": "New Orleans", "state": "LA","location": {"lat": "29.9546482", "lon": "-90.0750720"}}
+{"index": {}}
+{"city": "Shreveport", "state": "LA","location": {"lat": "32.5251516", "lon": "-93.7501789"}}
+{"index": {}}
+{"city": "Boston", "state": "MA","location": {"lat": "42.3584308", "lon": "-71.0597732"}}
+{"index": {}}
+{"city": "Cambridge", "state": "MA","location": {"lat": "42.3750970", "lon": "-71.1056079"}}
+{"index": {}}
+{"city": "Lowell", "state": "MA","location": {"lat": "42.6334247", "lon": "-71.3161718"}}
+{"index": {}}
+{"city": "South Boston", "state": "MA","location": {"lat": "42.3334312", "lon": "-71.0494949"}}
+{"index": {}}
+{"city": "Springfield", "state": "MA","location": {"lat": "42.1014831", "lon": "-72.5898110"}}
+{"index": {}}
+{"city": "Worcester", "state": "MA","location": {"lat": "42.2625932", "lon": "-71.8022934"}}
+{"index": {}}
+{"city": "Baltimore", "state": "MD","location": {"lat": "39.2903848", "lon": "-76.6121893"}}
+{"index": {}}
+{"city": "Ann Arbor", "state": "MI","location": {"lat": "42.2775628", "lon": "-83.7408829"}}
+{"index": {}}
+{"city": "Detroit", "state": "MI","location": {"lat": "42.3314270", "lon": "-83.0457538"}}
+{"index": {}}
+{"city": "Flint", "state": "MI","location": {"lat": "43.0125274", "lon": "-83.6874562"}}
+{"index": {}}
+{"city": "Grand Rapids", "state": "MI","location": {"lat": "42.9633599", "lon": "-85.6680863"}}
+{"index": {}}
+{"city": "Lansing", "state": "MI","location": {"lat": "42.7325350", "lon": "-84.5555347"}}
+{"index": {}}
+{"city": "Sterling Heights", "state": "MI","location": {"lat": "42.5803122", "lon": "-83.0302033"}}
+{"index": {}}
+{"city": "Warren", "state": "MI","location": {"lat": "42.4775363", "lon": "-83.0277000"}}
+{"index": {}}
+{"city": "Minneapolis", "state": "MN","location": {"lat": "44.9799654", "lon": "-93.2638361"}}
+{"index": {}}
+{"city": "Saint Paul", "state": "MN","location": {"lat": "44.9444101", "lon": "-93.0932742"}}
+{"index": {}}
+{"city": "East Independence", "state": "MO","location": {"lat": "39.0955608", "lon": "-94.3552275"}}
+{"index": {}}
+{"city": "Independence", "state": "MO","location": {"lat": "39.0911161", "lon": "-94.4155068"}}
+{"index": {}}
+{"city": "Kansas City", "state": "MO","location": {"lat": "39.0997266", "lon": "-94.5785667"}}
+{"index": {}}
+{"city": "North Kansas City", "state": "MO","location": {"lat": "39.1300040", "lon": "-94.5621773"}}
+{"index": {}}
+{"city": "Saint Louis", "state": "MO","location": {"lat": "38.6272733", "lon": "-90.1978889"}}
+{"index": {}}
+{"city": "Springfield", "state": "MO","location": {"lat": "37.2153260", "lon": "-93.2982436"}}
+{"index": {}}
+{"city": "Jackson", "state": "MS","location": {"lat": "32.2987573", "lon": "-90.1848103"}}
+{"index": {}}
+{"city": "Cary", "state": "NC","location": {"lat": "35.7915400", "lon": "-78.7811169"}}
+{"index": {}}
+{"city": "Charlotte", "state": "NC","location": {"lat": "35.2270869", "lon": "-80.8431268"}}
+{"index": {}}
+{"city": "Durham", "state": "NC","location": {"lat": "35.9940329", "lon": "-78.8986190"}}
+{"index": {}}
+{"city": "Fayetteville", "state": "NC","location": {"lat": "35.0526641", "lon": "-78.8783585"}}
+{"index": {}}
+{"city": "Greensboro", "state": "NC","location": {"lat": "36.0726355", "lon": "-79.7919754"}}
+{"index": {}}
+{"city": "Raleigh", "state": "NC","location": {"lat": "35.7720960", "lon": "-78.6386145"}}
+{"index": {}}
+{"city": "West Raleigh", "state": "NC","location": {"lat": "35.7868182", "lon": "-78.6638927"}}
+{"index": {}}
+{"city": "Winston-Salem", "state": "NC","location": {"lat": "36.0998596", "lon": "-80.2442160"}}
+{"index": {}}
+{"city": "Lincoln", "state": "NE","location": {"lat": "40.8000011", "lon": "-96.6669599"}}
+{"index": {}}
+{"city": "Omaha", "state": "NE","location": {"lat": "41.2586096", "lon": "-95.9377920"}}
+{"index": {}}
+{"city": "Manchester", "state": "NH","location": {"lat": "42.9956397", "lon": "-71.4547891"}}
+{"index": {}}
+{"city": "Edison", "state": "NJ","location": {"lat": "40.5187154", "lon": "-74.4120953"}}
+{"index": {}}
+{"city": "Elizabeth", "state": "NJ","location": {"lat": "40.6639916", "lon": "-74.2107006"}}
+{"index": {}}
+{"city": "Jersey City", "state": "NJ","location": {"lat": "40.7281575", "lon": "-74.0776417"}}
+{"index": {}}
+{"city": "Newark", "state": "NJ","location": {"lat": "40.7356570", "lon": "-74.1723667"}}
+{"index": {}}
+{"city": "Paterson", "state": "NJ","location": {"lat": "40.9167654", "lon": "-74.1718110"}}
+{"index": {}}
+{"city": "Toms River", "state": "NJ","location": {"lat": "39.9537291", "lon": "-74.1979192"}}
+{"index": {}}
+{"city": "Albuquerque", "state": "NM","location": {"lat": "35.0844909", "lon": "-106.6511367"}}
+{"index": {}}
+{"city": "Henderson", "state": "NV","location": {"lat": "36.0396988", "lon": "-114.9819368"}}
+{"index": {}}
+{"city": "Las Vegas", "state": "NV","location": {"lat": "36.1749705", "lon": "-115.1372230"}}
+{"index": {}}
+{"city": "North Las Vegas", "state": "NV","location": {"lat": "36.1988592", "lon": "-115.1175013"}}
+{"index": {}}
+{"city": "Paradise", "state": "NV","location": {"lat": "36.0971945", "lon": "-115.1466648"}}
+{"index": {}}
+{"city": "Reno", "state": "NV","location": {"lat": "39.5296329", "lon": "-119.8138027"}}
+{"index": {}}
+{"city": "Spring Valley", "state": "NV","location": {"lat": "36.1080258", "lon": "-115.2450006"}}
+{"index": {}}
+{"city": "Sunrise Manor", "state": "NV","location": {"lat": "36.2110819", "lon": "-115.0730563"}}
+{"index": {}}
+{"city": "Brooklyn", "state": "NY","location": {"lat": "40.6501038", "lon": "-73.9495823"}}
+{"index": {}}
+{"city": "Buffalo", "state": "NY","location": {"lat": "42.8864468", "lon": "-78.8783689"}}
+{"index": {}}
+{"city": "East New York", "state": "NY","location": {"lat": "40.6667702", "lon": "-73.8823583"}}
+{"index": {}}
+{"city": "New York City", "state": "NY","location": {"lat": "40.7142691", "lon": "-74.0059729"}}
+{"index": {}}
+{"city": "Rochester", "state": "NY","location": {"lat": "43.1547845", "lon": "-77.6155568"}}
+{"index": {}}
+{"city": "Syracuse", "state": "NY","location": {"lat": "43.0481221", "lon": "-76.1474244"}}
+{"index": {}}
+{"city": "Yonkers", "state": "NY","location": {"lat": "40.9312099", "lon": "-73.8987469"}}
+{"index": {}}
+{"city": "Akron", "state": "OH","location": {"lat": "41.0814447", "lon": "-81.5190053"}}
+{"index": {}}
+{"city": "Cincinnati", "state": "OH","location": {"lat": "39.1620036", "lon": "-84.4568863"}}
+{"index": {}}
+{"city": "Cleveland", "state": "OH","location": {"lat": "41.4994954", "lon": "-81.6954088"}}
+{"index": {}}
+{"city": "Columbus", "state": "OH","location": {"lat": "39.9611755", "lon": "-82.9987942"}}
+{"index": {}}
+{"city": "Dayton", "state": "OH","location": {"lat": "39.7589478", "lon": "-84.1916069"}}
+{"index": {}}
+{"city": "Toledo", "state": "OH","location": {"lat": "41.6639383", "lon": "-83.5552120"}}
+{"index": {}}
+{"city": "Oklahoma City", "state": "OK","location": {"lat": "35.4675602", "lon": "-97.5164276"}}
+{"index": {}}
+{"city": "Tulsa", "state": "OK","location": {"lat": "36.1539816", "lon": "-95.9927750"}}
+{"index": {}}
+{"city": "Eugene", "state": "OR","location": {"lat": "44.0520691", "lon": "-123.0867536"}}
+{"index": {}}
+{"city": "Portland", "state": "OR","location": {"lat": "45.5234515", "lon": "-122.6762071"}}
+{"index": {}}
+{"city": "Salem", "state": "OR","location": {"lat": "44.9428975", "lon": "-123.0350963"}}
+{"index": {}}
+{"city": "Allentown", "state": "PA","location": {"lat": "40.6084305", "lon": "-75.4901833"}}
+{"index": {}}
+{"city": "Philadelphia", "state": "PA","location": {"lat": "39.9523350", "lon": "-75.1637890"}}
+{"index": {}}
+{"city": "Pittsburgh", "state": "PA","location": {"lat": "40.4406248", "lon": "-79.9958864"}}
+{"index": {}}
+{"city": "Providence", "state": "RI","location": {"lat": "41.8239891", "lon": "-71.4128343"}}
+{"index": {}}
+{"city": "Columbia", "state": "SC","location": {"lat": "34.0007104", "lon": "-81.0348144"}}
+{"index": {}}
+{"city": "Sioux Falls", "state": "SD","location": {"lat": "43.5499749", "lon": "-96.7003270"}}
+{"index": {}}
+{"city": "Chattanooga", "state": "TN","location": {"lat": "35.0456297", "lon": "-85.3096801"}}
+{"index": {}}
+{"city": "Clarksville", "state": "TN","location": {"lat": "36.5297706", "lon": "-87.3594529"}}
+{"index": {}}
+{"city": "East Chattanooga", "state": "TN","location": {"lat": "35.0653508", "lon": "-85.2491233"}}
+{"index": {}}
+{"city": "Knoxville", "state": "TN","location": {"lat": "35.9606384", "lon": "-83.9207392"}}
+{"index": {}}
+{"city": "Memphis", "state": "TN","location": {"lat": "35.1495343", "lon": "-90.0489801"}}
+{"index": {}}
+{"city": "Nashville", "state": "TN","location": {"lat": "36.1658899", "lon": "-86.7844432"}}
+{"index": {}}
+{"city": "New South Memphis", "state": "TN","location": {"lat": "35.0867579", "lon": "-90.0567584"}}
+{"index": {}}
+{"city": "Abilene", "state": "TX","location": {"lat": "32.4487364", "lon": "-99.7331439"}}
+{"index": {}}
+{"city": "Amarillo", "state": "TX","location": {"lat": "35.2219971", "lon": "-101.8312969"}}
+{"index": {}}
+{"city": "Arlington", "state": "TX","location": {"lat": "32.7356870", "lon": "-97.1080656"}}
+{"index": {}}
+{"city": "Austin", "state": "TX","location": {"lat": "30.2671530", "lon": "-97.7430608"}}
+{"index": {}}
+{"city": "Beaumont", "state": "TX","location": {"lat": "30.0860459", "lon": "-94.1018461"}}
+{"index": {}}
+{"city": "Brownsville", "state": "TX","location": {"lat": "25.9017472", "lon": "-97.4974838"}}
+{"index": {}}
+{"city": "Carrollton", "state": "TX","location": {"lat": "32.9537349", "lon": "-96.8902816"}}
+{"index": {}}
+{"city": "Corpus Christi", "state": "TX","location": {"lat": "27.8005828", "lon": "-97.3963810"}}
+{"index": {}}
+{"city": "Dallas", "state": "TX","location": {"lat": "32.7830556", "lon": "-96.8066667"}}
+{"index": {}}
+{"city": "Denton", "state": "TX","location": {"lat": "33.2148412", "lon": "-97.1330683"}}
+{"index": {}}
+{"city": "El Paso", "state": "TX","location": {"lat": "31.7587198", "lon": "-106.4869314"}}
+{"index": {}}
+{"city": "Fort Worth", "state": "TX","location": {"lat": "32.7254090", "lon": "-97.3208496"}}
+{"index": {}}
+{"city": "Garland", "state": "TX","location": {"lat": "32.9126240", "lon": "-96.6388833"}}
+{"index": {}}
+{"city": "Grand Prairie", "state": "TX","location": {"lat": "32.7459645", "lon": "-96.9977846"}}
+{"index": {}}
+{"city": "Houston", "state": "TX","location": {"lat": "29.7632836", "lon": "-95.3632715"}}
+{"index": {}}
+{"city": "Irving", "state": "TX","location": {"lat": "32.8140177", "lon": "-96.9488945"}}
+{"index": {}}
+{"city": "Killeen", "state": "TX","location": {"lat": "31.1171194", "lon": "-97.7277959"}}
+{"index": {}}
+{"city": "Laredo", "state": "TX","location": {"lat": "27.5064070", "lon": "-99.5075421"}}
+{"index": {}}
+{"city": "Lubbock", "state": "TX","location": {"lat": "33.5778631", "lon": "-101.8551665"}}
+{"index": {}}
+{"city": "McAllen", "state": "TX","location": {"lat": "26.2034071", "lon": "-98.2300124"}}
+{"index": {}}
+{"city": "Mesquite", "state": "TX","location": {"lat": "32.7667955", "lon": "-96.5991593"}}
+{"index": {}}
+{"city": "Pasadena", "state": "TX","location": {"lat": "29.6910625", "lon": "-95.2091006"}}
+{"index": {}}
+{"city": "Plano", "state": "TX","location": {"lat": "33.0198431", "lon": "-96.6988856"}}
+{"index": {}}
+{"city": "Richardson", "state": "TX","location": {"lat": "32.9481789", "lon": "-96.7297206"}}
+{"index": {}}
+{"city": "San Antonio", "state": "TX","location": {"lat": "29.4241219", "lon": "-98.4936282"}}
+{"index": {}}
+{"city": "Waco", "state": "TX","location": {"lat": "31.5493330", "lon": "-97.1466695"}}
+{"index": {}}
+{"city": "Wichita Falls", "state": "TX","location": {"lat": "33.9137085", "lon": "-98.4933873"}}
+{"index": {}}
+{"city": "Provo", "state": "UT","location": {"lat": "40.2338438", "lon": "-111.6585337"}}
+{"index": {}}
+{"city": "Salt Lake City", "state": "UT","location": {"lat": "40.7607794", "lon": "-111.8910474"}}
+{"index": {}}
+{"city": "West Jordan", "state": "UT","location": {"lat": "40.6096698", "lon": "-111.9391031"}}
+{"index": {}}
+{"city": "West Valley City", "state": "UT","location": {"lat": "40.6916132", "lon": "-112.0010501"}}
+{"index": {}}
+{"city": "Alexandria", "state": "VA","location": {"lat": "38.8048356", "lon": "-77.0469214"}}
+{"index": {}}
+{"city": "Arlington", "state": "VA","location": {"lat": "38.8903896", "lon": "-77.0841446"}}
+{"index": {}}
+{"city": "Chesapeake", "state": "VA","location": {"lat": "36.8190369", "lon": "-76.2749399"}}
+{"index": {}}
+{"city": "East Hampton", "state": "VA","location": {"lat": "37.0373684", "lon": "-76.3316100"}}
+{"index": {}}
+{"city": "Hampton", "state": "VA","location": {"lat": "37.0298687", "lon": "-76.3452218"}}
+{"index": {}}
+{"city": "Newport News", "state": "VA","location": {"lat": "36.9787588", "lon": "-76.4280030"}}
+{"index": {}}
+{"city": "Norfolk", "state": "VA","location": {"lat": "36.8468146", "lon": "-76.2852183"}}
+{"index": {}}
+{"city": "Portsmouth", "state": "VA","location": {"lat": "36.8354258", "lon": "-76.2982742"}}
+{"index": {}}
+{"city": "Richmond", "state": "VA","location": {"lat": "37.5537575", "lon": "-77.4602617"}}
+{"index": {}}
+{"city": "Virginia Beach", "state": "VA","location": {"lat": "36.8529263", "lon": "-75.9779850"}}
+{"index": {}}
+{"city": "Bellevue", "state": "WA","location": {"lat": "47.6103770", "lon": "-122.2006786"}}
+{"index": {}}
+{"city": "Seattle", "state": "WA","location": {"lat": "47.6062095", "lon": "-122.3320708"}}
+{"index": {}}
+{"city": "Spokane", "state": "WA","location": {"lat": "47.6587803", "lon": "-117.4260466"}}
+{"index": {}}
+{"city": "Tacoma", "state": "WA","location": {"lat": "47.2528769", "lon": "-122.4442906"}}
+{"index": {}}
+{"city": "Vancouver", "state": "WA","location": {"lat": "45.6387281", "lon": "-122.6614861"}}
+{"index": {}}
+{"city": "Green Bay", "state": "WI","location": {"lat": "44.5191590", "lon": "-88.0198260"}}
+{"index": {}}
+{"city": "Madison", "state": "WI","location": {"lat": "43.0730517", "lon": "-89.4012302"}}
+{"index": {}}
+{"city": "Milwaukee", "state": "WI","location": {"lat": "43.0389025", "lon": "-87.9064736"}}
